@@ -1,0 +1,16 @@
+body{background-color: rgba(84, 252, 252, 0.725);}
+h1{font-style: italic; color: rgba(2, 114, 118, 0.792); text-align: center; font-weight: bolder}
+
+p{font-weight: 200; font-style: initial; font-size: 22px;}
+
+ul{line-height: 2;}
+
+.piano{border-radius: 25px; width: 150px;}
+
+table{width: 20% ;
+    margin: 5%;}
+
+tr{font-weight: bold; text-align: left;}
+td{border-radius: 30px;}   
+
+a:hover{color: red;}
